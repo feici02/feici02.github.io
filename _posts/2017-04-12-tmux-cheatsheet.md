@@ -13,10 +13,9 @@ Here is what I often do when I open my MacBook Pro for work:
 
 Below are my most frequently used  commands. List them here for a quick reference.
 
-### session
-
 operation | command
---- | ---
+:--- | :---
+**session** ||
 create | tmux new -s test
 show | C-b s
 | tmux ls
@@ -26,22 +25,14 @@ attach | tmux a -t test
 kill | tmux kill-session -t test
 rename | C-b $
 | tmux rename-session -t test test2
-
-### window
-
-operation | command
---- | ---
+**window** ||
 create | C-b c
 rename | C-b ,
 next | C-b n
 previous | C-b p
 go to | C-b <number>
 list | C-b w
-
-### pane
-
-operation | command
---- | ---
+**pane** ||
 create horizontally | C-b "
 create vertically | C-b %
 show number | C-b q
@@ -54,6 +45,4 @@ move | C-b h
 | C-b k
 kill | C-b x
 break to window | C-b !
-
-### Ask for more?
-```C-b ?```
+**complete list** | C-b ?
