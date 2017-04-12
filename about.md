@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-## Questions
 
 ### Who are you?
 I am feici02. Hello, world!
@@ -15,3 +14,8 @@ I am feici02. Hello, world!
 - [Apple Magic Keyboard](http://www.apple.com/shop/product/MLA22LL/A/magic-keyboard-us-english)
 - [Apple iPhone 6s](http://www.apple.com/shop/buy-iphone/iphone6s)
 - [Amazon Kindle Paperwhite](https://www.amazon.cn/dp/B00QJDOLIO/ref=kin_compchart_muscat_2)
+
+### What software do you use?
+- oh-my-zsh
+- vim
+- tmux
