@@ -32,6 +32,7 @@ next | C-b n
 previous | C-b p
 go to | C-b <number>
 list | C-b w
+close | C-b &
 **pane** ||
 create horizontally | C-b "
 create vertically | C-b %
