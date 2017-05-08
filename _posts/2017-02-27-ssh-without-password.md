@@ -4,10 +4,10 @@ title:  "ssh without password"
 tags: commandline
 ---
 
-## How to ssh to a remote server without passowrd?
+When you ssh to a remote server, it is tedious to input your password to log in.
 
+Please follow steps below to enable ssh without password.
 Here I assume that your username on local and remote server is the same.
-Please follow steps below:
 
 ```
 # generate pubic and private keys, leave the passphrase empty

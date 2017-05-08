@@ -16,6 +16,15 @@ I am feici02. Hello, world!
 - [Amazon Kindle Paperwhite](https://www.amazon.cn/dp/B00QJDOLIO/ref=kin_compchart_muscat_2)
 
 ### What software do you use?
-- oh-my-zsh
-- vim
-- tmux
+- [oh-my-zsh](http://ohmyz.sh/) and [fish](https://fishshell.com/)
+- [vim](www.vim.org)
+- [tmux](https://tmux.github.io/)
+
+### What sports do you do?
+- jump rope
+- skateboard
+- snowboard
+
+### What books are you reading?
+I log books I read, books I am reading and books I want to read in a Github repo: [@feici02/booklists](https://github.com/feici02/booklists).
+If you want to discuss them with me, please [create an issue](https://github.com/feici02/booklists/issues/new) in this repo.

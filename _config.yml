@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: feici02's tidbits
-email: feici02@foxmail.com
+email: feici02@163.com
 description: > 
   Welcome to my blog, where I share what I'm learning, 
   books I'm reading and plaeces I travel. Happy reading.
