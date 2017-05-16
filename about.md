@@ -14,6 +14,7 @@ I am feici02. Hello, world!
 - [Apple Magic Keyboard](http://www.apple.com/shop/product/MLA22LL/A/magic-keyboard-us-english)
 - [Apple iPhone 6s](http://www.apple.com/shop/buy-iphone/iphone6s)
 - [Amazon Kindle Paperwhite](https://www.amazon.cn/dp/B00QJDOLIO/ref=kin_compchart_muscat_2)
+- [PlayStation 4](https://www.playstation.com/en-us/explore/ps4/) :video_game:
 
 ### What software do you use?
 - [oh-my-zsh](http://ohmyz.sh/) and [fish](https://fishshell.com/)
@@ -23,7 +24,7 @@ I am feici02. Hello, world!
 ### What sports do you do?
 - jump rope
 - skateboard
-- snowboard
+- snowboard :snowboarder:
 
 ### What books are you reading?
 I log books I read, books I am reading and books I want to read in a Github repo: [@feici02/booklists](https://github.com/feici02/booklists).
