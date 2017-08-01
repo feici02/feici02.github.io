@@ -4,7 +4,7 @@ title: "Two Vagrant Plugins I Use"
 tags: vagrant
 ---
 
-The following two plugins enhance my Vagrant experience grealy. Perhaps you should also give them a try.
+The following two plugins enhance my Vagrant experience greatly. Perhaps you should also give them a try.
 
 1. vagrant-vbguest
   - A Vagrant plugin to keep your VirtualBox Guest Additions up to date.
