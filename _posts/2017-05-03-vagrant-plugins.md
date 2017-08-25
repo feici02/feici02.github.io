@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two Vagrant Plugins I Use"
-tags: vagrant
+tags: devops
 ---
 
 The following two plugins enhance my Vagrant experience greatly. Perhaps you should also give them a try.

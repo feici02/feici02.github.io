@@ -1,5 +1,10 @@
-# Link Roundup, August 2017
-A backlog of good links I enjoyed this week.
+---
+layout: post
+title:  "Link Roundup For August 2017"
+tags: links
+---
+
+A backlog of posts I enjoyed recently.
 
 - [Buffers, Windows, Tabs... Oh My! Part 1: Vim Buffers](https://dockyard.com/blog/2013/10/22/vim-buffers)
 - [Buffers, Windows, Tabs... Oh My! Part 2: Vim Windows](https://dockyard.com/blog/2013/11/27/vim-windows)
