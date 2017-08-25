@@ -1,4 +1,4 @@
-# Link Roundup One, August 2017
+# Link Roundup, August 2017
 A backlog of good links I enjoyed this week.
 
 - [Buffers, Windows, Tabs... Oh My! Part 1: Vim Buffers](https://dockyard.com/blog/2013/10/22/vim-buffers)
@@ -10,3 +10,4 @@ A backlog of good links I enjoyed this week.
 - [Nvidia CEO: Software Is Eating the World, but AI Is Going to Eat Software](https://www.technologyreview.com/s/607831/nvidia-ceo-software-is-eating-the-world-but-ai-is-going-to-eat-software/)
 - [LET'S SCAFFOLD A WEB APP WITH YEOMAN](http://yeoman.io/codelab/index.html)
 - [Improve Your Python: Python Classes and Object Oriented Programming](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
+- [VIM and Python - a Match Made in Heaven](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)

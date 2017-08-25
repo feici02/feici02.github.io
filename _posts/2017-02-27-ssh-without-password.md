@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ssh without password"
-tags: commandline
+tags: cmd
 ---
 
 When you ssh to a remote server, it is tedious to input your password to log in.

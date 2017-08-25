@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My tmux cheatsheet"
-tags: commandline
+tags: cmd
 ---
 
 If you often work on a remote server, then probably you should give [tmux](https://tmux.github.io) a try.
