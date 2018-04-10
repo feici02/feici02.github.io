@@ -20,12 +20,15 @@ I am feici02. Hello, world!
 - [oh-my-zsh](http://ohmyz.sh/) and [fish](https://fishshell.com/)
 - [vim](www.vim.org)
 - [tmux](https://tmux.github.io/)
+- [docker](https://www.docker.com/)
+
+### What are your favorite programming languages?
+- [Javascript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
+- [Go](https://golang.org)
+- [Python](https://www.python.org)
 
 ### What sports do you do?
 - jump rope
 - skateboard
+- inline skates
 - snowboard :snowboarder:
-
-### What books are you reading?
-I log books I read, books I am reading and books I want to read in a Github repo: [@feici02/booklists](https://github.com/feici02/booklists).
-If you want to discuss them with me, please [create an issue](https://github.com/feici02/booklists/issues/new) in this repo.
