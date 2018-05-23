@@ -35,10 +35,16 @@ $ pipenv install --dev pytest
 # show dependency graph
 $ pipenv graph
 
+# security check
+$ pipenv check
+
 # delete Pipfile.lock for test
 $ rm -f Pipfile.lock
 # generate lock file again
 $ pipenv lock
+
+# create requirements.txt
+$ pipenv lock -r ./requirements.txt
 
 # uninstall everything
 $ pipenv uninstall --all
@@ -49,12 +55,20 @@ $ pipenv graph
 # install all denpendencies, including the dev
 # if following command is run without a venv,
 # a venv will be created automatically.
-$ pipenv install --dev
+$ pipenv install -d
 
 # exit from venv
 $ exit
 # remove venv
 $ pipenv --rm
+```
+
+By default, the venv directory is created under the home directory;
+it can also be created in the `.venv` directory of current project:
+```
+$ mkdir .venv
+$ pipenv --python 3.7
+$ pipenv --venv
 ```
 
 ## Reference
